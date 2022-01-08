@@ -4,11 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
-import Learning from './components/learning';
+//import Learning from './components/learning';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Learning />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

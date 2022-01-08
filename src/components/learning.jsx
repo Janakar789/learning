@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
 
 
 class Learning extends React.Component {
@@ -24,4 +24,4 @@ class Learning extends React.Component {
     }
 }
  
-export default Learning;
+export default Learning;*/
